@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(JsonParser C CXX)
+project(M2TxtToJson C CXX)
 set(exe ${PROJECT_NAME})
 
 SET(CMAKE_COLOR_MAKEFILE ON)
